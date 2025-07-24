@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "colorSets" : {
+    "TauihiBlack" : {
+      "primary" : "#000000",
+      "secondary" : "#1A1A1A",
+      "tertiary" : "#333333"
+    },
+    "TauihiWhite" : {
+      "primary" : "#FFFFFF",
+      "secondary" : "#F0F0F0",
+      "tertiary" : "#E0E0E0"
+    },
+    "TauihiRed" : {
+      "primary" : "#FF0000",
+      "secondary" : "#CC0000",
+      "tertiary" : "#990000"
+    }
+  }
+}
